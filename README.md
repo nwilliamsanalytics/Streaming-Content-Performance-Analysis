@@ -15,6 +15,8 @@ The dashboard below visualizes content performance across demand (Popularity) an
 ![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
 Explore the interactive dashboard: https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
 
+The analysis reveals a clear disconnect between engagement and quality, highlighting both growth opportunities and potential churn risks within the content portfolio.
+
 - Audience demand (Popularity) does not always correlate with content quality, revealing a disconnect between engagement and ratings.
 - Several high-quality titles exhibit lower engagement, indicating potential opportunities for improved marketing or content positioning.
 - High-demand, lower-rated titles may present churn risk, as engagement is not supported by strong audience satisfaction.
