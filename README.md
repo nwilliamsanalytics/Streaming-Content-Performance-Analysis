@@ -29,7 +29,9 @@ By comparing demand and quality across titles, the analysis identifies high-valu
 - Looker Studio (data visualization and dashboarding)
 - GitHub (project documentation and version control)
 
-- ## Dashboard
+## Dashboard
+
+![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
 
 View the interactive dashboard here:  
 https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
