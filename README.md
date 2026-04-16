@@ -33,8 +33,7 @@ By comparing demand and quality across titles, the analysis identifies high-valu
 
 ![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
 
-View the interactive dashboard here:  
-https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
+View the interactive dashboard here:  https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
 
 ## Business Application
 
