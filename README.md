@@ -13,7 +13,6 @@ By comparing demand and quality across titles, the analysis identifies high-valu
 The dashboard below visualizes content performance across demand (Popularity) and quality (Voter Rating), enabling segmentation of titles into strategic performance tiers.
 
 ![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
-
 Explore the interactive dashboard: https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
 
 - Audience demand (Popularity) does not always correlate with content quality, revealing a disconnect between engagement and ratings.
