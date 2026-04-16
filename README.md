@@ -8,7 +8,11 @@ The dataset is sourced from The Movie Database (TMDB) API, providing real-world 
 
 By comparing demand and quality across titles, the analysis identifies high-value content, underperforming assets, and strategic opportunities for optimization across a streaming portfolio.
 
-## Key Insights
+## Key Insights & Dashboard
+
+![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
+
+View the interactive dashboard here:  https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
 
 - Audience demand (Popularity) does not always correlate with content quality, revealing a disconnect between engagement and ratings.
 - Several high-quality titles exhibit lower engagement, indicating potential opportunities for improved marketing or content positioning.
@@ -28,12 +32,6 @@ By comparing demand and quality across titles, the analysis identifies high-valu
 - Google Sheets (data storage)
 - Looker Studio (data visualization and dashboarding)
 - GitHub (project documentation and version control)
-
-## Dashboard
-
-![Streaming Content Performance Dashboard](StreamingContentOverviewDash.png)
-
-View the interactive dashboard here:  https://datastudio.google.com/reporting/28a0ec12-0a17-40b8-a081-bb1135f0041a
 
 ## Business Application
 
