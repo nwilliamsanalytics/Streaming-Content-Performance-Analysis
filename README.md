@@ -26,7 +26,7 @@ The analysis reveals a clear disconnect between engagement and quality, highligh
 
 - Popularity reflects a composite engagement score derived from user interactions (e.g., searches and views), and is used as a directional proxy for audience demand.
 - Voter ratings were normalized to a 0–10 scale to ensure consistency in quality comparisons.
-- A performance matrix was constructed using average demand and rating as dynamic benchmarks to segment content into performance tiers.
+- A content performance matrix was developed to benchmark each title against portfolio averages for demand and quality, enabling segmentation of high-value, underperforming, and opportunity content.
 - Content was categorized into four groups: High Demand + High Quality, High Quality + Low Demand, High Demand + Low Quality, and Low Demand + Low Quality.
 
 - ## Tools & Technologies
